@@ -76,7 +76,6 @@ public class BankingSystem {
             }
         }
         scanner.close();
-        //hi
     }
 
 }
